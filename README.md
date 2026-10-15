@@ -121,7 +121,7 @@ Amazon_Business_HR_Analysis_GitHub/
 ├── notebooks/
 │   └── AMAZON DATA PROJECT.ipynb
 └── presentation/
-    └── Amazon_Business_HR_Analysis_Brown_Beige_Reordered.pptx
+    └── Amazon_Business_HR_Analysis_presentation
 ```
 
 ## Run the notebook
