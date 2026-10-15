@@ -8,7 +8,7 @@ This project uses exploratory data analysis (EDA) to describe Amazon product lis
 
 ## Project files
 
-- **Presentation:** [`presentation/Amazon_Business_HR_Analysis_Brown_Beige_Reordered.pptx`](presentation/Amazon_Business_HR_Analysis_Brown_Beige_Reordered.pptx)
+- **Presentation:** [`presentation/Amazon_Business_HR_Analysis`](presentation/Amazon_Business_HR_Analysis)
 - **Analysis notebook:** [`notebooks/AMAZON DATA PROJECT.ipynb`](notebooks/AMAZON%20DATA%20PROJECT.ipynb)
 - **Dataset instructions:** [`data/README.md`](data/README.md)
 
